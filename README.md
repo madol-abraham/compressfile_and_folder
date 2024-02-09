@@ -5,12 +5,16 @@ This Python script allows users to compress a folder into compressed file types,
 
 ****Usage.****
 Clone Repository: Clone or download this repository to your local machine.
-Navigate to Directory: Using your terminal or command prompt, navigate to the directory where the script is located.
-Run Script: Run the script by executing the following command:
-python compress_file.py
 
-Enter Folder Path: When prompted, enter the folder path you wish to compress.
+Navigate to Directory: Using your terminal or command prompt, navigate to the directory where the script is located.
+
+Run Script: Run the script by executing the following command:
+python compress_file.py.
+
+Enter Folder Path: Please enter the folder path you wish to compress when prompted.
+
 Select Compression Type: Choose the desired compression type from the available options (zip, tar, tgz).
+
 Compression Process: The script will compress the specified folder into the selected compression type. Upon completion, it will display a message indicating the success or failure of the compression process.
 
 
@@ -34,18 +38,23 @@ Madol Abraham kuol madol
 yes
 yes
 Created the repository.
+
 CYIZA Henriette
-yes
-yes
+yes.
+yes.
 Helped in debugging the code.
+
 Ayen Guech
-yes
-yes
+yes.
+yes.
+
 Wrote the report.
+
 Docus Malony
 yes
 yes
 Helped break down the Task at hand into smaller tasks.
+
 Abuk Mayen Duot
 yes
 yes
