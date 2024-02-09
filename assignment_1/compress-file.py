@@ -32,12 +32,12 @@ def compress_folder(folder_path, compress_type):
 
 if __name__ == '__main__':
     folder_path = input("Enter the path of the folder to compress: ")
-    compress_types = ["zip", "tar", "tgz"]
-    print("Available compress types:", ", ".join(compress_types))
+    compress_types = ['zip', 'tar', 'tgz']
+    print("Available compress types:', ', '.join(compress_types))
     compress_type = input('Enter the desired compress type: ')
 
     if compress_type in compress_types:
         compress_folder(folder_path, compress_type)
     else:
-        print("Invalid compress type. Please select from the available options.")
+        print('Invalid compress type. Please select from the available options.')
 
