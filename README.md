@@ -34,30 +34,19 @@ Collaborators and their contributions.
 Attended
 Github Commits
 Other Contributions
-Madol Abraham kuol madol
-yes
-yes
+Madol Abraham kuol madol:
 Created the repository.
 
-CYIZA Henriette
-yes.
-yes.
+CYIZA Henriette:
 Helped in debugging the code.
 
-Ayen Guech
-yes.
-yes.
-
+Ayen Guech:
 Wrote the report.
 
-Docus Malony
-yes
-yes
+Docus Malony:
 Helped break down the Task at hand into smaller tasks.
 
-Abuk Mayen Duot
-yes
-yes
+Abuk Mayen Duot:
 Created Google Meetings.
 
 
