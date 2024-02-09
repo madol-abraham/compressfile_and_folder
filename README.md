@@ -1,9 +1,9 @@
- Compress Files and Folder
+ #Compress Files and Folder#
 
 This Python script allows users to compress a folder into compressed file types, including .zip, .tar, and .tgz. The compressed file is named based on the folder's name and the current date.
 
 
-Usage
+****Usage****
 Clone Repository: Clone or download this repository to your local machine.
 Navigate to Directory: Using your terminal or command prompt, navigate to the directory where the script is located.
 Run Script: Run the script by executing the following command:
