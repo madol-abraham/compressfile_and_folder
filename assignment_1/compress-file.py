@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Python program that allows users to compress files and folders."""
+''' Python program that allows users to compress files and folders.'''
 
 import os
 import tarfile
@@ -30,11 +30,11 @@ def compress_folder(folder_path, compress_type):
     except Exception as e:
         print(f"Compression failed: {e}")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     folder_path = input("Enter the path of the folder to compress: ")
     compress_types = ["zip", "tar", "tgz"]
     print("Available compress types:", ", ".join(compress_types))
-    compress_type = input("Enter the desired compress type: ")
+    compress_type = input('Enter the desired compress type: ')
 
     if compress_type in compress_types:
         compress_folder(folder_path, compress_type)
